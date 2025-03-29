@@ -1,0 +1,10 @@
+# robots.txt for zqm.pages.dev (钟庆明's Resume)
+
+# Allow all ethical crawlers full access to the site.
+User-agent: *
+Disallow:
+
+# Optionally, specify the sitemap location if you create one.
+# For a single-page site, a sitemap is usually not necessary,
+# but it doesn't hurt if you want to be explicit.
+# Sitemap: https://zqm.pages.dev/sitemap.xml
